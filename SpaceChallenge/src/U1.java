@@ -14,7 +14,7 @@ public class U1 extends Rocket {
         System.out.println("Launch explosion chances: " + launchExplodeChances);
 
         if (randomEvent <= launchExplodeChances) {
-            System.out.println("Cargo " + cargoName + " chrashed on launching! -- Relaunching --");
+            System.out.println("Cargo " + cargoName + " exploded on launching! -- Relaunching --");
             System.out.println("");
             return false;
         } else {
