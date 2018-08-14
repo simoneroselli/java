@@ -1,7 +1,8 @@
 Code challenge for the Udacity course "Object Oriented Programming in Java"
 
 Example output:
-```-- Loading U1 items for phase-1.txt ..
+```
+   -- Loading U1 items for phase-1.txt ..
    -- 8 Rockets ready for launch.
    
    Launching cargo: rocket-a8a142
